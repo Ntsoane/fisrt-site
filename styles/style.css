@@ -1,5 +1,5 @@
 html {
-  background-color:	#980c0c;
+  background-color: #c33737;
 }
 
 
@@ -18,7 +18,7 @@ p{
   color: white;
 }
 h3{
-  text-align: center;
+  text-align: left;
   color:white;
 }
 
@@ -33,7 +33,7 @@ ul {
 body {
   width: 600px;
   margin : 0 auto;
-  background-color: #50000 ;
+  background-color: #580110;
 
   padding: 0 20px 20px 20px;
   border :5px solid black;
@@ -45,5 +45,5 @@ img {
   margin-top: 20px;
   margin-bottom: 20px;
   border-radius: 20%;
-  
+
 }
