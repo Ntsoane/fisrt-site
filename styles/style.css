@@ -1,11 +1,12 @@
 html {
-  background-color: #c33737;
+  background-color:# 35800);
+  background-image: url(../images/background2.jpg );
 }
 
 
 
 h1{
-  color: white;
+  color: rbga(255, 255, 255, 128);
 font-family: inherit;
 font-style: oblique;
 text-align-last: center;
@@ -33,8 +34,7 @@ ul {
 body {
   width: 600px;
   margin : 0 auto;
-  background-color: #580110;
-
+  background-image: url(../images/background.jpg);
   padding: 0 20px 20px 20px;
   border :5px solid black;
 }
@@ -45,5 +45,4 @@ img {
   margin-top: 20px;
   margin-bottom: 20px;
   border-radius: 20%;
-
 }
