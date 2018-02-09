@@ -46,3 +46,16 @@ img {
   margin-bottom: 20px;
   border-radius: 20%;
 }
+
+#button {
+  background-color: darkorange;
+  width:105px;
+  padding: 15px;
+  margin: 0 auto;
+  border-radius: 15px;
+}
+
+#button:hover {
+  background-color: white;
+  cursor: pointer;
+}
